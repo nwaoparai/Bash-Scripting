@@ -5,7 +5,11 @@ that the shell and other programs use to function
 
 <img width="1125" height="260" alt="Image" src="https://github.com/user-attachments/assets/cdf69c9b-7195-45d0-8d47-cc1d6f63ef82" />
 
+Note that if a terminal is closed, a variable becomes empty
+
 <img width="1020" height="284" alt="Image" src="https://github.com/user-attachments/assets/5928f8e4-4250-40bb-ac34-f0a24122ec5c" />
+
+That is why it is better to store them in a script
 
 <img width="1125" height="144" alt="Image" src="https://github.com/user-attachments/assets/cab061f1-86bc-4e8e-a79b-6b95bd0b6793" />
 
