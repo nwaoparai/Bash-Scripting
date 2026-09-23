@@ -20,3 +20,5 @@ More commands can be added to the script. In the example below, pwd is added
 
 <img width="1125" height="651" alt="Image" src="https://github.com/user-attachments/assets/aa31f708-e29b-41b7-9136-eaa5ec656678" />
 
+As you can see below, The print working directory was added to the output
+
