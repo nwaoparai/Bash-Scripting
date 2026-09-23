@@ -14,4 +14,5 @@ If you notice the script file now shows green (on Ubuntu) showing it is executab
 
 The script is then run.
 
+<img width="1125" height="201" alt="Image" src="https://github.com/user-attachments/assets/2abcf72f-e16b-48a1-b33c-6f4eb7f29678" />
 
