@@ -15,7 +15,7 @@ That is why it is better to store them in a script
 
 <img width="980" height="394" alt="Image" src="https://github.com/user-attachments/assets/6bc1e01c-9ddc-49de-881b-39790e57f30a" />
 
-This is another method to store variables
+This is another method to store variables. It runs ls in the background and stores the output in files
 
 <img width="1105" height="216" alt="Image" src="https://github.com/user-attachments/assets/27a1fbd5-dbc6-4677-90f0-c1278b60cf64" />
 
