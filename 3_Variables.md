@@ -19,6 +19,8 @@ This is another method to store variables
 
 <img width="1105" height="216" alt="Image" src="https://github.com/user-attachments/assets/27a1fbd5-dbc6-4677-90f0-c1278b60cf64" />
 
+We also have inbuilt System variables
+
 <img width="1125" height="394" alt="Image" src="https://github.com/user-attachments/assets/16f58bfe-cd04-4f35-af0f-8448bbc7b7c2" />
 
 <img width="1070" height="230" alt="Image" src="https://github.com/user-attachments/assets/43e82779-a03d-4806-948f-44ff2abd7b0a" />
