@@ -26,5 +26,7 @@ As you can see below, The print working directory was added to the output
 
 The script is now adjusted to print out "Hello World" and 'Print working Directory'
 
+<img width="1125" height="580" alt="Image" src="https://github.com/user-attachments/assets/18e5d1e1-49cb-4ebc-b8b3-3b84cb5b6144" />
 
+<img width="1125" height="336" alt="Image" src="https://github.com/user-attachments/assets/787cee97-3770-499b-8088-7d6399bf98e4" />
 
