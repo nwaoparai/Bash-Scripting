@@ -6,6 +6,8 @@ For multiple conditions add the else statement
 
 <img width="1125" height="374" alt="Image" src="https://github.com/user-attachments/assets/8fcb5cbe-45b6-400c-9ba7-c775c07e0cbe" />
 
+A script to check if a file exists
+
 <img width="1084" height="338" alt="Image" src="https://github.com/user-attachments/assets/2364667b-f81a-4d73-a155-f93de628feba" />
 
 <img width="1125" height="370" alt="Image" src="https://github.com/user-attachments/assets/d8208ddf-5b00-4b70-b1b4-8ec88f050835" />
